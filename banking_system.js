@@ -42,4 +42,4 @@ const NewAccount = new BankAccount(1000);
 
 NewAccount.TotalSaldo();
 NewAccount.Deposit(1000);
-NewAccount.WithDraw(2000);
+NewAccount.WithDraw(1500);
